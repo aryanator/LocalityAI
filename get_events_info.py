@@ -7,7 +7,7 @@ def get_events(location, num_events=5):
     Returns a list of events or an error message.
     """
     try:
-        TICKETMASTER_API_KEY = "QbdotTtS7bK3U7r6nwi1Qp3e9g241GBS"
+        TICKETMASTER_API_KEY = "Replace with your API Key"
         lat, lon = geocode_location(location)
         url = "https://app.ticketmaster.com/discovery/v2/events.json"
         params = {
