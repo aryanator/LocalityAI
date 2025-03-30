@@ -7,7 +7,7 @@ def get_weather(location, days=5):
     Returns a dictionary with current weather and forecast data for the next `days` days.
     """
     try:
-        WEATHER_API_KEY = "0a6a8b4f038241d78a8160949251303"
+        WEATHER_API_KEY = "Replace with your API Key"
         lat, lon = geocode_location(location)
         # API call for both current weather and forecast data for the next 'days' days
         url = f"http://api.weatherapi.com/v1/forecast.json?key={WEATHER_API_KEY}&q={lat},{lon}&days={days}&aqi=no"
