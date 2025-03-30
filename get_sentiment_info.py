@@ -5,9 +5,9 @@ from collections import Counter
 import re
 
 # Reddit API credentials
-REDDIT_CLIENT_ID = "G6R7wy_ArTl2L3zuqFB8sA"
-REDDIT_CLIENT_SECRET = "H1Hv2Ys46-wkgJmD4B6_gL-3-ACGHw"
-USER_AGENT = "Flimsy_Mouse_622"
+REDDIT_CLIENT_ID = "Replace with your API Key"
+REDDIT_CLIENT_SECRET = "Replace with your API Key"
+USER_AGENT = "Replace with your API Key"
 
 # Initialize Reddit API
 reddit = praw.Reddit(
