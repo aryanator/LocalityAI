@@ -1,6 +1,3 @@
-Here's the **final polished README.md** for your LocalityAI project, carefully synchronized with your actual codebase and API usage:
-
-```markdown
 # LocalityAI: Hyperlocal Ad Strategy Engine  
 [![Streamlit Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-market-intelligence-tool.streamlit.app/)  
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![APIs](https://img.shields.io/badge/APIs-6_integrated-orange)
