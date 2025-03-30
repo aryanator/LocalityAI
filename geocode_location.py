@@ -3,7 +3,6 @@ import os
 
 # Load API key from environment variable
 
-#GEOCODE_API_KEY = "5acRBgJ6yO9HundfNEBt9EBYdS232PDiIjsvcMrc_k4"
 # if not GEOCODE_API_KEY:
 #     raise ValueError("HERE_API_KEY environment variable not set.")
 
@@ -11,7 +10,7 @@ def geocode_location(location):
     """
     Convert a location (e.g., city, zip code) into latitude and longitude.
     """
-    GEOCODE_API_KEY = "5acRBgJ6yO9HundfNEBt9EBYdS232PDiIjsvcMrc_k4"
+    GEOCODE_API_KEY = "Replace with your API Key"
     url = "https://geocode.search.hereapi.com/v1/geocode"
     params = {
         "q": location,
