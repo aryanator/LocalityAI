@@ -6,7 +6,7 @@ def get_news(location, num_articles=5):
     Returns a list of news articles or an error message.
     """
     try:
-        NEWS_API_KEY = "059619af30b749a1909419ab5cbf1fb8"
+        NEWS_API_KEY = ""
         url = f"https://newsapi.org/v2/top-headlines?country=us&apiKey={NEWS_API_KEY}"
         response = requests.get(url)
         
