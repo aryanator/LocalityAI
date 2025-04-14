@@ -72,7 +72,7 @@ def generate_prompt(weather_data, news_data, event_data, traffic_data, sentiment
 
 def generate_advertiser_summary(prompt):
     # Set your API key as an environment variable (replace with your key)
-    os.environ["TOGETHER_API_KEY"] = "3045ace567b59cd96ed78310bee29038b11611cfce527e0da8ed9c7ae4da67e1"  
+    os.environ["TOGETHER_API_KEY"] = ""  
 
     # Initialize the client with the API key
     client = Together(api_key=os.environ["TOGETHER_API_KEY"])
