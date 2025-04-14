@@ -7,7 +7,7 @@ def get_traffic(location):
     Returns a dictionary with traffic information or an error message.
     """
     try:
-        HERE_API_KEY = "5acRBgJ6yO9HundfNEBt9EBYdS232PDiIjsvcMrc_k4"  # Replace with your HERE API key
+        HERE_API_KEY = ""  # Replace with your HERE API key
         
         # Step 1: Get coordinates for the location
         lat, lon = geocode_location(location)
