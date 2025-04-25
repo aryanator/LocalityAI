@@ -11,6 +11,14 @@ AI-powered platform generating **data-driven ad strategies** by synthesizing:
 
 ---
 
+## Images
+![Live info fetched](images-LAI/LAI-1.png)
+![Visualizations](images-LAI/LAI-2.png)
+![Summary Generated](images-LAI/LAI-3.png)
+![Image Generated](images-LAI/LAI-4.png)
+
+
+
 ## 🔑 API Configuration  
 *All API keys in this repo are placeholders. You must obtain your own:*  
 
