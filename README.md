@@ -12,10 +12,10 @@ AI-powered platform generating **data-driven ad strategies** by synthesizing:
 ---
 
 ## Images
-![Live info fetched](images-LAI/LAI-1.png)
-![Visualizations](images-LAI/LAI-2.png)
-![Summary Generated](images-LAI/LAI-3.png)
-![Image Generated](images-LAI/LAI-4.png)
+![Live info fetched](Images-LAI/LAI-1.png)
+![Visualizations](Images-LAI/LAI-2.png)
+![Summary Generated](Images-LAI/LAI-3.png)
+![Image Generated](Images-LAI/LAI-4.png)
 
 
 
