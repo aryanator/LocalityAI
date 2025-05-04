@@ -1,12 +1,12 @@
 from flask import Flask, jsonify, request
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
-from get_weather_info import get_weather
-from get_news_info import get_news
-from get_events_info import get_events
-from get_traffic_info import get_traffic
-from get_sentiment_info import get_sentiment
-from llm_response import generate_prompt
-from llm_response import generate_advertiser_summary
+from services.get_weather_info import get_weather
+from services.get_news_info import get_news
+from services.get_events_info import get_events
+from services.get_traffic_info import get_traffic
+from services.get_sentiment_info import get_sentiment
+from llm.llm_response import generate_prompt
+from llm.llm_response import generate_advertiser_summary
 
 
 app = Flask(__name__)

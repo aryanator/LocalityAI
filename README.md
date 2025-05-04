@@ -13,12 +13,12 @@ AI-powered platform generating **data-driven ad strategies** by synthesizing:
 
 ## 🎥 Demo
 
-![LocalityAI Demo](Images-LAI/localityai-demo.gif)
+![LocalityAI Demo](images/localityai-demo.gif)
 
 
 ## Images
-![Summary Generated](Images-LAI/LAI-3.png)
-![Image Generated](Images-LAI/LAI-4.jpg)
+![Summary Generated](images/LAI-3.png)
+![Image Generated](images/LAI-4.jpg)
 
 
 
